@@ -1,0 +1,32 @@
+.fon {
+    background-color: darkslategrey;
+    padding: 10px 0px 0px 0px;
+    height: 600px;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    background-color: saddlebrown;
+    width: 450px;
+    font-size: 40px;
+    margin: auto;
+}
+
+.fon2 {
+    background-color: black;
+    border: 8px solid red;
+    width: 560px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 15px 20px 13px 20px
+}
+
+.blok1 {
+    background-color: aqua;
+    margin: 10px;
+    padding: 20px;
+    width: 500px;
+    height: 160px;
+    margin-bottom: 15px;
+}
